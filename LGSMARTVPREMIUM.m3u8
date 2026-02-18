@@ -129,6 +129,26 @@ http://190.117.20.38:8000/play/a0eh/index.m3u8
 http://190.234.82.52:8000/play/a0ok/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD9
 http://201.230.101.89:12000/play/a0ej/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD10
+http://190.60.49.242:4000/play/a0ql/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD11
+http://190.60.32.178:8178/play/a0bi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD12
+http://38.156.13.106:8888/play/a02g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD13
+http://38.191.43.69:8000/play/A1923/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD14
+http://177.93.46.245:50000/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD15
+http://177.93.41.134:4000/play/a18z/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD16
+http://8.243.126.131:8000/play/a0d2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD17
+http://190.60.54.158:8000/play/a04q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD18
+http://190.60.44.98:9000/play/a00q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(LAT)HD19
+http://185.181.35.50:8000/play/a0cu/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(AR)HD1
 http://186.125.218.198:13000/play/a049/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(AR)HD2
@@ -162,10 +182,29 @@ http://138.204.12.14:40000/play/a0mc/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD1
 http://45.5.119.43:4000/play/a052/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD2
-http://45.5.119.43:4000/play/a052/index.m3u8
+http://45.5.119.97:12500/play/a076/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD3
+http://45.171.64.30:6060/play/a05k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD4
 http://200.92.227.238:8000/play/a0tj/index.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD5
+http://190.14.10.19:16000/play/a092/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD6
+http://200.115.98.26:9000/play/a09k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD7
+http://181.78.109.48:9998/play/a05y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD8
+http://179.49.202.35:8237/play/a068/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD9
+http://168.228.44.241:9998/play/a069/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD10
+http://38.43.133.242:8000/play/a0df/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD11
+http://200.125.170.122:8000/play/a05v
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD12
+http://45.5.118.188:8000/play/a05v/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(MX)HD13
+http://168.228.44.241:9997/play/a06p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(CH)HD1
 http://187.102.210.142:5556/play/a035
 #EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES⭐",ESPN1(CH)HD2
