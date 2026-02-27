@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://i.postimg.cc/fTMtCDcL/d-sport.png" group-title=⭐DEPORTES⭐,DSPORT1(PE)HD1
 http://38.190.101.128:2233/play/a1ey/index.m3u8
-#EXTINF:0 tvg-logo="https://github.com/CRACKED10PRO/FAMILIAMITMA2028/blob/main/d-sport.png" group-title="⭐DEPORTES⭐",DSPORT1(PE)HD2
+#EXTINF:0 tvg-logo="http://github.com/CRACKED10PRO/FAMILIAMITMA2028/blob/main/d-sport.png" group-title="⭐DEPORTES⭐",DSPORT1(PE)HD2
 http://38.190.101.128:2233/play/a1ey/index.m3u8
 #EXTINF:0 tvg-logo="http://i.postimg.cc/fTMtCDcL/d-sport.png" group-title="⭐DEPORTES⭐",DSPORT1(PE)HD3
 http://148.222.230.201:8000/play/a0pk/index.m3u8
