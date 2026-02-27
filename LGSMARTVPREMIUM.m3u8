@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/CKDSsDLn/d-sport.png" group-title="⭐DEPORTES⭐",DSPORT1(PE)HD1
+#EXTINF:0 tvg-logo="https://i.imgur.com/83p5x7M.png" group-title="⭐DEPORTES⭐",DSPORT1(PE)HD1
 http://148.222.230.201:8000/play/a0pk/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/CKDSsDLn/d-sport.png" group-title="⭐DEPORTES⭐",DSPORT1(PE)HD1
+#EXTINF:0 tvg-logo="http://i.ibb.co/CKDSsDLn/d-sport.png" group-title="⭐DEPORTES⭐",DSPORT1(PE)HD1
 http://148.222.230.201:8000/play/a0pk/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/CKDSsDLn/d-sport.png" group-title="⭐DEPORTES⭐",DSPORT1(PE)HD2
+#EXTINF:0 tvg-logo="http://i.ibb.co/CKDSsDLn/d-sport.png" group-title="⭐DEPORTES⭐",DSPORT1(PE)HD2
 http://148.222.230.197:8000/play/a0mm/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/CKDSsDLn/d-sport.png" group-title="⭐DEPORTES⭐",DSPORT1(PE)HD3
 http://201.230.121.85:8000/play/a0yv/index.m3u8
